@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "name": "test",
+            "email": "test@gmail.com",
+            "age": 0,
+            "sex": "Male",
+            "password": "12345",
+            "report": "Medical Report:\n\nThe patient appears to have diabetes. It's crucial to manage blood sugar levels effectively to prevent complications, including diabetic retinopathy.\n\nPreventative Measures:\n\n- Monitor blood sugar levels regularly as advised by your doctor,\n- Follow a diabetic-friendly diet rich in fruits, vegetables, and whole grains,\n- Engage in regular physical activity to improve insulin sensitivity\n\nPrecautionary Measures:\n\n- Attend regular check-ups with healthcare providers to monitor diabetes management,\n- Consult with an ophthalmologist to assess eye health and discuss preventive measures",
+            "precautions": [
+                "Attend regular check-ups with healthcare providers to monitor diabetes management",
+                "Consult with an ophthalmologist to assess eye health and discuss preventive measures"
+            ],
+            "Pupil": null
+        },
+        {
+            "name": "chaitanya",
+            "email": "c1@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "1234",
+            "report": "Medical Report:\n\nIt seems like the patient has cataracts. While common and treatable, it's important to address symptoms and consider treatment options.\n\nPreventative Measures:\n\n- Protect eyes from UV exposure with sunglasses,\n- Quit smoking if applicable, as it can increase cataract risk,\n- Maintain overall health with a balanced diet and regular exercise\n\nPrecautionary Measures:\n\n- Consult with an eye specialist for personalized treatment options,\n- Discuss surgical options if cataracts significantly affect daily activities",
+            "precautions": [
+                "Consult with an eye specialist for personalized treatment options",
+                "Discuss surgical options if cataracts significantly affect daily activities"
+            ],
+            "Pupil": null
+        },
+        {
+            "name": "prc",
+            "email": "prc@gmail.com",
+            "age": 1,
+            "sex": "Male",
+            "password": "123",
+            "report": "Medical Report:\n\nThe patient appears to have diabetes. It's crucial to manage blood sugar levels effectively to prevent complications, including diabetic retinopathy.\n\nPreventative Measures:\n\n- Monitor blood sugar levels regularly as advised by your doctor,\n- Follow a diabetic-friendly diet rich in fruits, vegetables, and whole grains,\n- Engage in regular physical activity to improve insulin sensitivity\n\nPrecautionary Measures:\n\n- Attend regular check-ups with healthcare providers to monitor diabetes management,\n- Consult with an ophthalmologist to assess eye health and discuss preventive measures",
+            "precautions": [
+                "Attend regular check-ups with healthcare providers to monitor diabetes management",
+                "Consult with an ophthalmologist to assess eye health and discuss preventive measures"
+            ],
+            "Pupil": null
+        },
+        {
+            "name": "chaitanya",
+            "email": "c1@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "123",
+            "report": null,
+            "precautions": null,
+            "Pupil": null
+        }
+    ]
+}
